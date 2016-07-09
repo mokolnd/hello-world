@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi, 
+
+And I am learning more about html and css.
